@@ -1,0 +1,1 @@
+Exploring git command line usage on scientific linux 6; following youtube video: "Webcast - The Basics of Git and Github - July 2013"
